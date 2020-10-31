@@ -1,4 +1,4 @@
-# Tensorflow javasscript based application
+# Tensorflow javasscript based AI application
 
 ## Dancing Skeleton Video
 
